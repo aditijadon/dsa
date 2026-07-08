@@ -1,4 +1,4 @@
-package arrayHashing;
+package miscellaneous;
 
 import java.util.Arrays;
 

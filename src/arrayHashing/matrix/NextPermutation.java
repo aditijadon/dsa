@@ -1,4 +1,4 @@
-package arrayHashing;
+package miscellaneous;
 
 public class NextPermutation {
 //    For Brute Force:

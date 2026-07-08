@@ -1,4 +1,4 @@
-package binarySearch;
+package array.binarySearch;
 
 public class Search2D {
     // Each row sorted + each row's 1st is greater than previous row's last

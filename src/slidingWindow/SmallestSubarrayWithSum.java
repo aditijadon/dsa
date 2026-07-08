@@ -1,4 +1,4 @@
-package slidingWindow;
+package array.slidingWindow;
 
 public class SmallestSubarrayWithSum {
     public static int smallestSubarray(int[] arr, int k){

@@ -1,4 +1,4 @@
-package binarySearch;
+package array.binarySearch;
 
 public class NthRoot {
     public static int NthRoot(int n, int m) {

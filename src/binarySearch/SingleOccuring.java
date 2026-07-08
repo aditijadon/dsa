@@ -1,4 +1,4 @@
-package binarySearch;
+package array.binarySearch;
 
 public class SingleOccuring {
     public static int singleNonDuplicate(int[] arr){

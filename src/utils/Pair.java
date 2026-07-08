@@ -1,5 +1,7 @@
 package binaryTree;
 
+import utils.TreeNode;
+
 public class Pair{
     private final TreeNode key;
     private final Integer value;

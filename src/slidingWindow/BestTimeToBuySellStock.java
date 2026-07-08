@@ -1,4 +1,4 @@
-package slidingWindow;
+package array.slidingWindow;
 
 public class BestTimeToBuySellStock {
     static int maxProfitSlidingWindow(int[] prices){

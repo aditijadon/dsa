@@ -1,4 +1,4 @@
-package binarySearch;
+package array.binarySearch;
 
 /*
 Given a row-wise sorted matrix of size M*N, where M is no. of rows and N is no. of columns, find the median in the given matrix.

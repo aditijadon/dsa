@@ -1,4 +1,4 @@
-package binarySearch;
+package array.binarySearch;
 
 public class MedianSortedArrays {
     static double findMedian(int a[], int b[]){

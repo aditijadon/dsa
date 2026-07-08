@@ -1,4 +1,4 @@
-package arrayHashing;
+package array;
 
 public class ValidAnagram {
     static final int MAX_CHAR = 26;

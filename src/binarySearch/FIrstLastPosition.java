@@ -1,4 +1,4 @@
-package binarySearch;
+package array.binarySearch;
 
 public class FIrstLastPosition {
     public static int[] searchRange(int[] nums, int target) {

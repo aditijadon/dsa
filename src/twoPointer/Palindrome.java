@@ -1,4 +1,4 @@
-package twoPointer;
+package array.twoPointer;
 
 import java.util.Locale;
 

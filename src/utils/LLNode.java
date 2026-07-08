@@ -1,10 +1,10 @@
 package linkedList;
 
-public class Node {
+public class LLNode {
     int data;
-    Node next;
+    LLNode next;
 
-    Node(int new_data) {
+    LLNode(int new_data) {
         data = new_data;
         next = null;
     }

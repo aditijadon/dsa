@@ -1,4 +1,4 @@
-package binarySearch;
+package array.binarySearch;
 
 public class PeakElement {
     public static int findPeakElement(int[] nums) {

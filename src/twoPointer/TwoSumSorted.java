@@ -1,4 +1,4 @@
-package twoPointer;
+package array.twoPointer;
 
 public class TwoSumSorted {
     static int[] twoSum(int[] arr, int target){

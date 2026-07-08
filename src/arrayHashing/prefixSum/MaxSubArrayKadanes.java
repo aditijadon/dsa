@@ -1,6 +1,6 @@
 package arrayHashing;
 
-public class KadanesAlgorithm {
+public class MaxSubArrayKadanes {
     static int maxSubArrayBruteForce(int[] nums){
         int maxi = Integer.MIN_VALUE;
         for (int i = 0; i < nums.length; i++) {

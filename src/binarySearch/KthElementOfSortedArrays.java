@@ -1,4 +1,4 @@
-package binarySearch;
+package array.binarySearch;
 
 public class KthElementOfSortedArrays {
     public static long kthElement(int a[], int b[], int k) {

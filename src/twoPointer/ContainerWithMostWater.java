@@ -1,4 +1,4 @@
-package twoPointer;
+package array.twoPointer;
 
 public class ContainerWithMostWater {
     static int maxArea(int[] heights) {

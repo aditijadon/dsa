@@ -1,4 +1,4 @@
-package twoPointer;
+package array.twoPointer;
 
 public class TrappingRainWater {
     static int trap(int[] height) {

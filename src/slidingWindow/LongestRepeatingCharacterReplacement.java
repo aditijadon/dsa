@@ -1,4 +1,4 @@
-package slidingWindow;
+package array.slidingWindow;
 
 /*
 You are given a string s consisting of only uppercase english characters and an integer k. You can choose up to k

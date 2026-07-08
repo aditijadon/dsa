@@ -6,10 +6,11 @@ All 30 DP Problems :
 5. Minimum Subset Sum Diff ✅
 6. Count of Subsets with Given Difference ✅
 7. Target Sum ✅
+
 8. Unbounded Knapsack (intro) ✅
 9. Rod Cutting Problem ✅
-10. Coin Change – I (Maximum number of ways)
-11. Coin Change – II (Minimum number of coins)
+10. Coin Change – I (Maximum number of ways) ✅
+11. Coin Change – II (Minimum number of coins) ✅
 12. Longest Common Subsequence (LCS)
 13. Longest Common Substring
 14. Print LCS

@@ -1,4 +1,4 @@
-package twoPointer;
+package array.twoPointer;
 
 public class ValidPalindrome {
     static boolean isValid(String s){

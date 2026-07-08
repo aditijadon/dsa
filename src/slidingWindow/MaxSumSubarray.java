@@ -1,4 +1,4 @@
-package slidingWindow;
+package array.slidingWindow;
 
 public class MaxSumSubarray {
     public static int maxSubArraySum(int[] arr, int k) {

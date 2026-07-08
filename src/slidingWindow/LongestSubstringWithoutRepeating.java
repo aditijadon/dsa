@@ -1,4 +1,4 @@
-package slidingWindow;
+package array.slidingWindow;
 
 // Given a string, S. Find the length of the longest substring without repeating characters.
 

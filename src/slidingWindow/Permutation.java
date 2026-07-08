@@ -1,4 +1,4 @@
-package slidingWindow;
+package array.slidingWindow;
 
 public class Permutation {
     public static boolean checkInclusion(String s1, String s2){

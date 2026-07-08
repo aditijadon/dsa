@@ -1,4 +1,4 @@
-package arrayHashing;
+package array;
 
 public class ProductExceptSelf {
     private static int[] findProductTwoArrays(int[] arr){
