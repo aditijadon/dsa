@@ -6,6 +6,7 @@ public class CountSubsetDiff {
     // Sum(S1) - Sum(S2) = diff
     // Sum(S1) + Sum(S2) = Sum(arr)
     // Sum(S1) = (Sum(arr) + diff) / 2
+    // Sum(S2) = (Sum(arr) - diff) / 2
 
     static int getCountRecursion(int[] arr, int target, int n) {
         if (target == 0) return 1;

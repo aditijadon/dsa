@@ -5,15 +5,15 @@ All 30 DP Problems :
 4. Count of Subset ✅
 5. Minimum Subset Sum Diff ✅
 6. Count of Subsets with Given Difference ✅
-7. Target Sum ✅
+7. Target Sum (*)
 
 8. Unbounded Knapsack (intro) ✅
 9. Rod Cutting Problem ✅
 10. Coin Change – I (Maximum number of ways) ✅
 11. Coin Change – II (Minimum number of coins) ✅
-12. Longest Common Subsequence (LCS)
-13. Longest Common Substring
-14. Print LCS
+12. Longest Common Subsequence (LCS) ✅
+13. Longest Common Substring ✅
+14. Print LCS ✅
 15. Shortest Common Supersequence (SCS)
 16. Minimum insertions & deletions to convert string A to B
 17. Longest Palindromic Subsequence (LPS)

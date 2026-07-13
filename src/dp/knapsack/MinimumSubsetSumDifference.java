@@ -2,7 +2,7 @@ package dp.knapsack;
 
 import java.util.Arrays;
 
-// Minimum Subset Sum Difference (Partition Problem). Given an array of positive integers, partition the array into two
+// Given an array of positive integers, partition the array into two
 // subsets so the absolute difference of the sums of the 2 subsets is minimized. Return the minimum possible difference.
 
 public class MinimumSubsetSumDifference {
@@ -15,6 +15,9 @@ public class MinimumSubsetSumDifference {
                 minDiffRecursion(arr, n-1, s1, total)
         );
     }
+
+    // s1 = (total - diff) / 2
+    // s2 = total - s1 = total/2 + diff/2
 
     // Memoization - Time: O(n*target), Space: O(n*target) + O(n) recursion stack
     static int minDifferenceMemo(int[] arr, int n, int s1, int total, int[][] t) {
